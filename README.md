@@ -1,8 +1,8 @@
 # Welcome to Lumina / Bem-vindo ao Lumina
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/lumina-ide/lumina/blob/main/resources/lumina-ide-logo.png">
-    <img src="https://raw.githubusercontent.com/lumina-ide/lumina/main/resources/lumina-ide-logo.png" alt="Lumina IDE Logo" width="650" style="max-width: 100%;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/lumina-ide/lumina/blob/main/resources/lumina-ide-logo-2.png">
+    <img src="https://raw.githubusercontent.com/lumina-ide/lumina/main/resources/lumina-ide-logo-2.png" alt="Lumina IDE Logo" width="650" style="max-height: 160px; width: auto; object-fit: contain;">
   </a>
 </p>
 <div align="center">
