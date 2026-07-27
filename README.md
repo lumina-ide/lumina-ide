@@ -1,17 +1,14 @@
 # Welcome to Lumina / Bem-vindo ao Lumina
 
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/lumina-ide/lumina-ide/blob/main/resources/lumina-ide-logo.png">
+    <img src="/lumina-ide/lumina-ide/raw/main/resources/lumina-ide-logo.png" alt="Lumina IDE Logo" width="450" style="max-width: 100%;">
+  </a>
+</p>
 <div align="center">
-	<img
-		src="./resources/lumina-ide-logo.png"
-		alt="Lumina IDE - AI-Powered Code Editor"
-		width="450"
-		height="auto"
-	/>
-	<p><strong>The Open-Source, 100% Local AI-Powered Code Editor</strong></p>
-	<p><em>O Editor de Código de Código Aberto com Inteligência Artificial 100% Local</em></p>
+  <p><strong>The Open-Source, 100% Local AI-Powered Code Editor</strong></p>
+  <p><em>O Editor de Código Aberto com Inteligência Artificial 100% Local</em></p>
 </div>
-
-<hr />
 
 ## 🚀 Downloads / Baixar
 
